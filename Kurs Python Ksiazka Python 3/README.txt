@@ -1,2 +1,2 @@
-W katalogu odnajdziesz wszystkie programy napisane przezmnie 
-w czasie pracy z ksia¿k¹: "Python 3 Kompletne Wprowadzenie do Programowania"
+W katalogu odnajdziesz wszystkie programy napisane przeze mnie 
+w czasie pracy z ksiazka: "Python 3 Kompletne Wprowadzenie do Programowania"
